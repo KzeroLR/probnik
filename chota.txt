@@ -1,18 +1,11 @@
 prosto uchim 
 englich raskladku
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 chtoch
-<<<<<<< HEAD
-udalil ya bolsh cem dumal
-=======
+
 privet
->>>>>>> f564654db1c3003602685db957b7c75df5f9eccc
-=======
->>>>>>> parent of 496b1b5 (nu vot)
-=======
 
 udalil ya bolsh cem dumal
 
 
->>>>>>> 6f9f55794b743da1891b8299c3cb0ffdc766898a
+
